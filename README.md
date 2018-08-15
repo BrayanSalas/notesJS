@@ -34,3 +34,8 @@ Ubícate en la carpeta del proyecto y ejecuta:
 ```
 set DEBUG=myapp:* & npm start
 ```
+
+## Heroku
+```
+https://brayannotes.herokuapp.com/
+```
