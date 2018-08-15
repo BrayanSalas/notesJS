@@ -37,5 +37,5 @@ set DEBUG=myapp:* & npm start
 
 ## Heroku
 ```
-https://brayannotes.herokuapp.com/
+[App en heroku](https://brayannotes.herokuapp.com/)
 ```
