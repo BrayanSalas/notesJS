@@ -1,5 +1,6 @@
 # Notes js
 Es un mini proyecto basado en los tutoriales de MitoCode.
+
 La aplicación guarda/modifica/elimina y visualiza las notas que hayan sido agregadas.
 
 ## Tecnologías utilizadas
