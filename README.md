@@ -39,34 +39,34 @@ set DEBUG=myapp:* & npm start
 [App en heroku](https://brayannotes.herokuapp.com/)
 
 # Como subir una app a Heroku
-Para poder subir a heroku una app se hace la ejecucion de los siguientes comandos
+Para poder subir a heroku una app se hace la ejecucion de los siguientes comandos:
 
-Te logeas en tu cuenta
+1.- Entra en tu cuenta
 ```
 heroku login
 ```
 
-Ubicate en la carpeta de tu proyecto y pon:
+2.- Ubicate en la carpeta de tu proyecto y ejecuta:
 ```
 git add .
 ```
 
-Agregas un commit a los cambios
+3.- Agregas un commit a los cambios
 ```
 git commit -m 'mLab'
 ```
 
-Crear la aplicacion en heroku con:
+4.- Crear la aplicacion en heroku con:
 ```
 heroku apps:create [nombreDeLaApp]
 ```
 
-Subirlo a la rama
+5.- Subirlo a la rama
 ```
 git push heroku master
 ```
 
-Para abrir la app ejecuta:
+6.- Para abrir la app ejecuta:
 ```
 heroku open
 ```
